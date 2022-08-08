@@ -1,0 +1,1 @@
+const frase = "Meu nome é Davi e moro em São Paulo."
